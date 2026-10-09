@@ -58,7 +58,7 @@ The automation handles three main outcomes:
 
 The complete verification workflow is orchestrated through n8n.
 
-![Discord Verification Workflow](Workflow n8n.png)
+![Discord Verification Workflow](Workflow%20n8n.jpeg)
 
 At a high level, the process is:
 
